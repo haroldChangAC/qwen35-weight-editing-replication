@@ -1,0 +1,26 @@
+{
+ "args": {
+  "ckpt": "ckpt/p50c_a050",
+  "out": "results/math500/p50c_a050_rp105",
+  "set": "math500",
+  "n": 1,
+  "limit": 0,
+  "rep": 1.05,
+  "presence": 1.5,
+  "max_tokens": 32768,
+  "chunk": 250,
+  "mem": 0.9
+ },
+ "sampling": {
+  "n": 1,
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5,
+  "repetition_penalty": 1.05,
+  "max_tokens": 32768,
+  "seed": 0
+ },
+ "instruction": "Please reason step by step, and put your final answer within \\boxed{}.",
+ "thinking": true
+}
