@@ -1,0 +1,82 @@
+2026-11-03T16:14:23Z START p50c
+results/math500/p50c chunk 0: 5960s 920 tok/s
+results/math500/p50c chunk 250: 5643s 947 tok/s
+DONE results/math500/p50c
+2026-11-03T19:28:46Z END p50c
+2026-11-03T19:28:46Z START base_rp110
+results/math500/base_rp110 chunk 0: 8133s 824 tok/s
+results/math500/base_rp110 chunk 250: 8254s 822 tok/s
+DONE results/math500/base_rp110
+2026-11-04T00:05:00Z END base_rp110
+2026-11-04T00:05:00Z START base
+results/math500/base chunk 0: 9512s 813 tok/s
+results/math500/base chunk 250: 9884s 800 tok/s
+DONE results/math500/base
+2026-11-04T05:29:15Z END base
+2026-11-04T05:29:15Z START p25c
+2026-11-04T05:29:39Z SWITCH to run_all2.sh
+2026-11-04T05:29:39Z START base
+ALREADY DONE results/math500/base
+2026-11-04T05:29:40Z END base
+2026-11-04T05:29:40Z START p50c_a050
+results/math500/p50c_a050 chunk 0: 7389s 861 tok/s
+results/math500/p50c_a050 chunk 250: 7236s 865 tok/s
+DONE results/math500/p50c_a050
+2026-11-04T09:36:33Z END p50c_a050
+2026-11-04T09:36:33Z START p50c_a150
+results/math500/p50c_a150 chunk 0: 5083s 972 tok/s
+results/math500/p50c_a150 chunk 250: 4990s 981 tok/s
+DONE results/math500/p50c_a150
+2026-11-04T12:27:32Z END p50c_a150
+2026-11-04T12:27:32Z START p50c_rp110
+results/math500/p50c_rp110 chunk 0: 6812s 871 tok/s
+results/math500/p50c_rp110 chunk 250: 6389s 885 tok/s
+DONE results/math500/p50c_rp110
+2026-11-04T16:08:31Z END p50c_rp110
+2026-11-04T16:08:31Z START p25c
+results/math500/p25c chunk 0: 9220s 813 tok/s
+results/math500/p25c chunk 250: 9123s 808 tok/s
+DONE results/math500/p25c
+2026-11-04T21:17:31Z END p25c
+2026-11-04T21:17:31Z START p10c
+results/math500/p10c chunk 0: 9186s 812 tok/s
+results/math500/p10c chunk 250: 9279s 809 tok/s
+DONE results/math500/p10c
+2026-11-05T02:28:32Z END p10c
+2026-11-05T02:28:32Z START base_rp105
+results/math500/base_rp105 chunk 0: 8801s 811 tok/s
+results/math500/base_rp105 chunk 250: 8972s 810 tok/s
+DONE results/math500/base_rp105
+2026-11-05T07:25:44Z END base_rp105
+2026-11-05T07:25:44Z START base_rp120
+results/math500/base_rp120 chunk 0: 7745s 828 tok/s
+results/math500/base_rp120 chunk 250: 7237s 856 tok/s
+DONE results/math500/base_rp120
+2026-11-05T11:36:24Z END base_rp120
+2026-11-05T11:36:24Z ALL_DONE
+2026-11-06T01:28:11Z START p50c_rp105
+results/math500/p50c_rp105 chunk 0: 6597s 883 tok/s
+results/math500/p50c_rp105 chunk 250: 6689s 878 tok/s
+DONE results/math500/p50c_rp105
+2026-11-06T05:11:02Z END p50c_rp105
+2026-11-06T05:11:02Z START p50c_a150_rp105
+results/math500/p50c_a150_rp105 chunk 0: 5705s 912 tok/s
+results/math500/p50c_a150_rp105 chunk 250: 5312s 960 tok/s
+DONE results/math500/p50c_a150_rp105
+2026-11-06T08:15:43Z END p50c_a150_rp105
+2026-11-06T08:15:43Z START p50c_a150_rp110
+results/math500/p50c_a150_rp110 chunk 0: 6316s 887 tok/s
+results/math500/p50c_a150_rp110 chunk 250: 6019s 899 tok/s
+DONE results/math500/p50c_a150_rp110
+2026-11-06T11:42:15Z END p50c_a150_rp110
+2026-11-06T11:42:15Z START p50c_a050_rp105
+results/math500/p50c_a050_rp105 chunk 0: 6808s 872 tok/s
+results/math500/p50c_a050_rp105 chunk 250: 7277s 868 tok/s
+DONE results/math500/p50c_a050_rp105
+2026-11-06T15:38:05Z END p50c_a050_rp105
+2026-11-06T15:38:05Z START p50c_a050_rp110
+results/math500/p50c_a050_rp110 chunk 0: 6855s 870 tok/s
+results/math500/p50c_a050_rp110 chunk 250: 6686s 872 tok/s
+DONE results/math500/p50c_a050_rp110
+2026-11-06T19:24:43Z END p50c_a050_rp110
+2026-11-06T19:24:43Z GRID_DONE

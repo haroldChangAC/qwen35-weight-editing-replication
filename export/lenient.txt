@@ -1,0 +1,16 @@
+cond noans rescued spaces50 rescued_ids
+base 0 0 41 
+base_rp105 0 0 65 
+base_rp110 8 3 62 prea/1558 inte/2046 alge/567
+base_rp120 88 0 0 
+p10c 0 0 67 
+p25c 2 0 17 
+p50c 35 8 63 inte/134 alge/2232 numb/978 alge/1937
+p50c_a050 5 0 40 
+p50c_a050_rp105 9 3 66 prea/1807 inte/1410 inte/1232
+p50c_a050_rp110 20 11 49 prec/807 alge/305 alge/1265 inte/1126
+p50c_a150 62 4 74 numb/838 prea/1436 alge/1282 prec/1252
+p50c_a150_rp105 73 5 71 numb/864 prea/1686 prea/1572 numb/769
+p50c_a150_rp110 38 9 24 prec/779 coun/666 inte/1168 inte/515
+p50c_rp105 17 2 77 alge/2470 numb/22
+p50c_rp110 38 9 38 alge/2584 numb/45 alge/305 geom/283
